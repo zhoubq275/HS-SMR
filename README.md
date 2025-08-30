@@ -93,7 +93,7 @@ D0 = double(imread('sample_data/init_disp.png'));
 imwrite(uint16(D_opt), 'optimized_disp.tif');
 
 
- ## 📊 Example Results
+## 📊 Example Results
 
 ### Stereo Images
 <table>
@@ -133,7 +133,7 @@ imwrite(uint16(D_opt), 'optimized_disp.tif');
 
 ---
 
- ## 📚 Citation
+## 📚 Citation
  
 If you use this code in your research, please cite:
 
